@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://あなたのサイトURL.vercel.app/sitemap.xml', // ここも書き換え
+    sitemap: '[https://urltomd-tool.vercel.app/sitemap.xml](https://urltomd-tool.vercel.app/sitemap.xml)', 
   }
 }
