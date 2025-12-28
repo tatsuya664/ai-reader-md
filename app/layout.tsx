@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "AI-Reader.md | WebサイトをAI用Markdownに一瞬で変換",
   description: "Webサイトから広告やノイズを除去し、ChatGPTやClaudeが読みやすいMarkdown形式に変換する無料ツールです。技術記事やニュースの解析に最適。",
   keywords: ["AI", "Markdown", "変換", "スクレイピング", "ChatGPT", "Claude", "Gemini","本文抽出","プロンプト"],
+  verification: {
+    google: "Taj3YFPakjSrUdzb41Ca6VwJ9JR5Sd4lLI4JEY9ZJsQ",
+  },
   authors: [{ name: "Tatsuya Kawashima" }],
   openGraph: {
     title: "AI-Reader.md",
